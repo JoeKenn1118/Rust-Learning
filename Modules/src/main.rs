@@ -1,3 +1,5 @@
+use restaurant::front_of_house::hosting;
+
 fn main() {
-    println!("Hello, world!");
+    eat_at_restaurant();
 }
